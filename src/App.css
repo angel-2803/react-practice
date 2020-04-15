@@ -22,7 +22,7 @@
   background-color:rgb(78, 127, 232);
   color: white;
 }
-.btn-normal{
-  background-color:rgb(255, 255, 255);
-  color: rgb(82, 82, 82);
+.btn-red{
+  background-color:rgb(209, 37, 37);
+  color: rgb(240, 240, 240);
 }
